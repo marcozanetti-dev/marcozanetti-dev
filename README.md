@@ -1,16 +1,23 @@
-## Hi there 👋
+# Marco Zanetti
 
-<!--
-**marcozanetti-dev/marcozanetti-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Finance | Trading | Econometrics  
 
-Here are some ideas to get you started:
+BSc Econometrics & Operations Research  
+Erasmus University Rotterdam — Erasmus School of Economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+Systematic trading & statistical arbitrage  
+
+## Stack
+Python, Java, R, AIMMS
+
+## Work
+Research-driven projects in:
+- Trading strategy development & backtesting  
+- Applied econometrics and optimization  
+
+Emphasis on statistical rigor and reproducibility.
+
+## Contact
+GitHub: https://github.com/marcozanetti-dev  
+LinkedIn: www.linkedin.com/in/marco-zanetti005
