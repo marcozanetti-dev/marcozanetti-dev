@@ -9,7 +9,7 @@ Erasmus University Rotterdam — Erasmus School of Economics
 Systematic trading & statistical arbitrage  
 
 ## Stack
-Python, C++, Java, R, AIMMS
+Python, Java, R
 
 ## Work
 Research-driven projects in:
