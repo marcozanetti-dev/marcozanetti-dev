@@ -20,4 +20,4 @@ Emphasis on statistical rigor and reproducibility.
 
 ## Contact
 GitHub: https://github.com/marcozanetti-dev  
-LinkedIn: www.linkedin.com/in/marco-zanetti005
+LinkedIn: www.linkedin.com/in/zanetti--marco
