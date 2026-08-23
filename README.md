@@ -21,7 +21,8 @@ Tooling: Git, LaTeX
 * Applied econometrics and optimization
 * Signal research spanning event-driven drift, alternative/prediction-market data, and systematic strategy design<br>
 
-#### Omega Capital (https://omega-capital.org) <br>
+#### Omega Capital <br>
+##### (https://omega-capital.org) <br>
 Co-founder and joint head of Omega Capital, a systematic trading student association at Erasmus University Rotterdam (founded 2026). Set strategy and portfolio direction across a structure spanning Quantitative Research, Development, Trading, and Outreach committees, and oversee the pipeline that takes strategies from formal research proposal through backtesting to live deployment on the group's in-house trading engine, ATLAS. Also planned and specced the group's always-on infrastructure: a headless Linux mini PC running ATLAS, the Discord notifier, and the website as independent systemd services.
 
 ### Achievements
